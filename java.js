@@ -1,4 +1,3 @@
-function passage (element){
-  element.setAttribute('src');
-
+function passage (img){
+  img.src = 'images/' +img.id+'_2.jpg';
 }
